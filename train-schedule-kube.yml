@@ -46,7 +46,6 @@ spec:
           cpu: 200m
           
           ---
-
 apiVersion: autoscaling/v2beta1
 kind: HorizontalPodAutoscaler
 metadata:
